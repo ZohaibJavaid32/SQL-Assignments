@@ -1,0 +1,8 @@
+Q-1 Find out top 10 countries' which have maximum A and D values.
+Q-2 Find out highest CL value for 2020 for every region. Also sort the result in descending order. Also display the CL values in descending order.
+Q-3 Find top-5 most sold products.
+Q-4: Find sales man who sold most no of products.
+Q-5: Sales man name who has most no of unique customer.
+Q-6: Sales man who has generated most revenue. Show top 5.
+Q-7: List all customers who have made more than 10 purchases.
+Q-8 : List all salespeople who have made sales to more than 5 customers.
